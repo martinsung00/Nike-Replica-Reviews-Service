@@ -15,8 +15,10 @@ The reviews service is one of the four services that are being rendered onto a p
 ## Usage
 
 ## Contribution
+Team Repository: https://github.com/RPT23-Simplicity
 
 ## Credits
+Martin Sung (martinsung00): https://github.com/martinsung00
 
 ## Licensing
 Standard MIT license
