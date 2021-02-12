@@ -1,7 +1,7 @@
 ## Reviews Service
 
 ## Description
-The reviews service is one of the four services that are being rendered onto a proxy-server. Reviews allow the client to see the product's reviews and comments.
+The reviews service is one of the four services that are being rendered onto a proxy-server. The reviews service renders product reviews and user-generated comments onto the client.
 
 ## Table of Contents
 
